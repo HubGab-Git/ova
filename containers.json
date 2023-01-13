@@ -1,0 +1,7 @@
+[
+    {
+      "Description": "Alpine from OVA",
+      "Format": "ova",
+      "Url": "s3://alpineova/alpine-2.6.2.ova"
+    }
+  ]
